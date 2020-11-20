@@ -4,6 +4,7 @@ Popular design patterns implemented using Java:
 
 ## Creational Patterns
 * Abstract Factory
+* Singleton
 
 ## Structural Patterns
 
@@ -11,3 +12,4 @@ Popular design patterns implemented using Java:
 * Observer
 * Strategy
 * Template Method
+* State
