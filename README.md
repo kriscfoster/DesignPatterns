@@ -7,6 +7,7 @@ Popular design patterns implemented using Java:
 * Singleton
 
 ## Structural Patterns
+* Decorator
 
 ## Behavioural Patterns
 * Observer
